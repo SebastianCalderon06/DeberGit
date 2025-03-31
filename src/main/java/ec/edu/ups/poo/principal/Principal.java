@@ -7,8 +7,7 @@ import ec.edu.ups.poo.clases.Familiares;
 import ec.edu.ups.poo.clases.Personas;
 
 public class Principal
-    // hola
-    //ddjjkfjksfk
+    //aprueba gei
 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
